@@ -1,0 +1,28 @@
+{
+  "name": "lxghtless",
+  "version": "0.0.0",
+  "description": "it's me",
+  "main": "index.js",
+  "bin": {
+    "about-lxghtless": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'ummmm, what?'",
+    "pretty": "prettier --write --no-semi --single-quote --arrow-parens avoid --no-bracket-spacing --tab-width 4 --print-width 40 index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxghtless/lxghtless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxghtless/lxghtless/issues"
+  },
+  "homepage": "https://github.com/lxghtless/lxghtless#readme",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
