@@ -1,6 +1,6 @@
 {
   "name": "lxghtless",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "it's me",
   "main": "index.js",
   "bin": {
